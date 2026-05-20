@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.github
+*.local
+.turbo/
+packages/web/dist/
+packages/mobile/.expo/
+packages/desktop/dist/
